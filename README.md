@@ -16,7 +16,7 @@ Router &amp; Switcher
                              V
                       External Access
                              |
-         -------------------------------------------
+         -------------------------------------------    Circuit Level Equipment
                              |
                     R, CSU, MODEMS, SONET
                            (ISP)
