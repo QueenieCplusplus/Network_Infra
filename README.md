@@ -11,6 +11,9 @@ Router &amp; Switcher
         -------------------------------------------
                              |
                              R
+                             |
+                             V
+                      External Access
 
 
 # H, Hub (Layer-1)
