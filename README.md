@@ -10,10 +10,17 @@ Router &amp; Switcher
              |          |         |         |
         -------------------------------------------
                              |
+                        (Customer)
                              R
                              |
                              V
                       External Access
+                             |
+         -------------------------------------------
+                             |
+                    R, CSU, MODEMS, SONET
+                           (ISP)
+                      
 
 
 # H, Hub (Layer-1)
@@ -27,5 +34,9 @@ The number of Routers used in the network will be determined by Logical Design, 
 # SW, Switcher(Layer-2)
 
 The SW are used as conjunction with hubs.
+
+# Circuit Level Equipment
+
+The location of Modems are good place to demarc point and boundaries outside of the building.This seems as same as isolation to put together the services in demarc.
 
 
